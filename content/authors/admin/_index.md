@@ -4,10 +4,7 @@ role: PhD Researcher in Urban Analytics
 avatar_filename: zeyu-wang.jpg
 bio: My research interests include Human Mobility, Travel Behavior and Urban
   Data Science.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,5 +49,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Zeyu is a PhD research of urban at planning the University of Washington. HI research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zeyu is a PhD researcher of urban planning at the University of Washington. HI research interests include distributed robotics, mobile computing and programmable matter. His research interests are in the application of spatiotemporal big data in urban planning and studies. 
 {style="text-align: justify;"} 
