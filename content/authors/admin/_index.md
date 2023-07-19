@@ -31,19 +31,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Washington
+    url: https://sites.uw.edu/urbdpphd/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Urban Planning and Design
+      institution: University of Washington
+      year: 2027
+    - course: Master of Urban Planning
+      institution: National University of Singapore
+      year: 2023
+    - course: BSc in Human Geography and Urban Planning
+      institution: Central China Normal University
+      year: 2021
 superuser: true
 status:
   icon: ☕️
